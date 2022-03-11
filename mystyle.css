@@ -1,0 +1,43 @@
+h1 {color: purple;
+background-color: bisque;
+border-style: groove;
+border-width: 8px;
+border-color: darkorange;
+padding: 2px;
+text-align: center;}
+body {background-color: aquamarine;}
+
+#Sandwiches th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    background-color: Black;
+    color: white;
+  }
+  #stinky {color: darkslategray;}
+  #Sandwiches tr:nth-child(even) {
+    background-color: goldenrod;
+  }
+  #Sandwiches tr:nth-child(odd) {
+    background-color: palevioletred;
+  }
+
+  h2 {color: rgb(248, 0, 33);
+background-color: black;
+text-align: center;
+border-style: groove;
+border-width: 8px;
+border-color:rgb(0, 68, 255)e;}
+#Sandwiches tr:hover {
+    background-color: white;
+}
+td {padding-right: 5px;
+border-style: solid;}
+table {margin-left: auto; margin-right:auto;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+}
+.center {text-align: center;}
