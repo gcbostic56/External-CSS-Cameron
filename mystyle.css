@@ -39,5 +39,6 @@ table {margin-left: auto; margin-right:auto;
     border-style: solid;
     border-color: black;
     width: 100%;
+    border-collapse: collapse;
 }
 .center {text-align: center;}
